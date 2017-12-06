@@ -146,14 +146,16 @@ class ViewController: UIViewController {
         
         let alertVC = createOnlyAlertVC(AlertTitle: "", AlertMessage: "打开简书，关注王垒iOS", cancelActionTitle: "好的")
         
-        self.navigationController?.present(alertVC, animated: true, completion: nil)
+        self.present(alertVC, animated: true, completion: nil)
+    
     }
     
     func btn2Click(){
         
         let alertVC = createOnlyAlertVC(AlertTitle: "", AlertMessage: "Open the book, Jane attention Wang Lei iOS", cancelActionTitle: "Ok")
         
-        self.navigationController?.present(alertVC, animated: true, completion: nil)
+        self.present(alertVC, animated: true, completion: nil)
+        
     }
     
     func createOnlyAlertVC(AlertTitle: String, AlertMessage: String, cancelActionTitle: String) -> UIAlertController{

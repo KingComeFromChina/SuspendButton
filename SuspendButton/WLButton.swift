@@ -128,8 +128,6 @@ class WLButton: UIButton {
             
             UIView.setAnimationDelegate(self)
             
-            print(WLWindowWidth)
-            // 335
             self.frame = CGRect(x: WLWindowWidth - 40, y: self.center.y - 20, width: 40, height: 40)
             
             // 提交UIView动画
