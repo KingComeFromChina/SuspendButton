@@ -2,7 +2,7 @@
 #### Suspend button pop-up and animation
 ###### [🇨🇳中文介绍](http://www.jianshu.com/p/0bb5813adbe4)
 ## Rendering
-![](http://upload-images.jianshu.io/upload_images/3873966-4c178da1f1571cef.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/3873966-219d19bb58351934.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## Requirements
 
 - iOS 8.0+
